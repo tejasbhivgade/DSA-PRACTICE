@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\tejas\Downloads\Backend (3)"/>
+			<item value="C:\Users\tejas\OneDrive\Pictures\Desktop\final project\Backend"/>
+			<item value="C:\Users\tejas\OneDrive\Pictures\Desktop\final project\Backend (1)"/>
+			<item value="C:\Users\tejas\OneDrive\Pictures\Desktop\final project\Backend (1)\Backend"/>
+			<item value="D:\Programming Courses\Web-Java\Backend (1)"/>
+			<item value="D:\Programming Courses\Web-Java\learn-spring-framework"/>
+			<item value="C:\Users\tejas\Downloads\learn-spring-framework"/>
+			<item value="C:\Users\tejas\Downloads\Backend"/>
+			<item value="C:\Users\tejas\OneDrive\Pictures\Desktop\ds-algo"/>
+			<item value="C:\Users\tejas\Downloads\bajajFinservPro1"/>
+			<item value="C:\Users\tejas\OneDrive\Pictures\Desktop\bajaj_exam\bajaj_finserv\BajajFinservExamRepo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
